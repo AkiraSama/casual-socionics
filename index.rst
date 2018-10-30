@@ -65,14 +65,14 @@ functions across the line of `extraversion and introversion
 ===================== ============ ========= =============== =============
      Full Name        Abbreviation IM Symbol     IM Name        Gulenko_
 ===================== ============ ========= =============== =============
- Extraverted Sensing       Se                 Black Sensing    F (Force)
- Introverted Sensing       Si                 White Sensing  S (Sensation)
+ Extraverted Sensing       Se        |Se|     Black Sensing    F (Force)
+ Introverted Sensing       Si        |Si|     White Sensing  S (Sensation)
 Extraverted Intuition      Ne        |Ne|    Black Intuition   I (Idea)
 Introverted Intuition      Ni        |Ni|    White Intuition   T (Time)
   Extraverted Logic        Te        |Te|      Black Logic    P (Profit)
-  Introverted Logic        Ti                  White Logic     L (Logic)
- Extraverted Ethics        Fe                  Black Ethics   E (Emotion)
- Introverted Ethics        Fi                  White Ethics  R (Relation)
+  Introverted Logic        Ti        |Ti|      White Logic     L (Logic)
+ Extraverted Ethics        Fe        |Fe|      Black Ethics   E (Emotion)
+ Introverted Ethics        Fi        |Fi|      White Ethics  R (Relation)
 ===================== ============ ========= =============== =============
 
 Psychic Function Dichotomies
@@ -149,6 +149,11 @@ Viktor Gulenko
 
 .. |---| unicode:: U+02014 .. em dash
 
+.. |Se| image:: /img/se.gif
+.. |Si| image:: /img/si.gif
 .. |Ne| image:: /img/ne.gif
 .. |Ni| image:: /img/ni.gif
 .. |Te| image:: /img/te.gif
+.. |Ti| image:: /img/ti.gif
+.. |Fe| image:: /img/fe.gif
+.. |Fi| image:: /img/fi.gif
