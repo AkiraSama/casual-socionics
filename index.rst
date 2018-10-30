@@ -1,0 +1,154 @@
+################
+CASUAL SOCIONICS
+################
+
+***************************
+A Primer from the Ground Up
+***************************
+
+
+.. contents::
+   :backlinks: none
+
+.. _socionics:
+
+What is Socionics?
+==================
+
+Socionics is a system of typology_ founded by
+`Aušra Augustinavičiūtė <Augusta_>`__ (commonly Aushra Augusta,
+or just A. A.) in the '70s. If you have no idea how to pronounce
+her name, you are not alone.
+
+Socionics is influenced heavily by `Carl Jung <Jung_>`__'s theories
+of psychological types, and builds upon his proposed `"psychic
+functions" <functions_>`__: processes of the mind which recieve
+input and generate output based upon their particular needs and
+desires (or *agendas*). Using these functions, Socionists can build
+`models <The Models_>`__ of the psyche that describe both individual
+behavior and the behaviors of different types of people interacting
+with each other. Identifying and describing the role of each type in
+society are in essence the driving principles behind socionics.
+Hence the name.
+
+
+.. _functions:
+
+Psychic Functions
+=================
+
+The psychic functions are generally referred to as **information
+elements** in socionics literature. You may also see **IM elements**,
+for "Information Metabolism" elements. This is the technically
+correct name for them when used in `model A`_, the information
+metabolism model that is most essential to socionics.
+
+All that being said, in *casual* socionics discussion, the psychic
+functions are frequently referred to simply as "functions". This text
+will refer to them as **psychic functions** explicitly in order to
+math to this expectation while also avoiding ambiguity with other
+model A terminology.
+
+The four original categories of psychic function proposed by Jung_
+are sensation and intuition (`perceiving <functions-jp_>`_), and
+thinking and feeling (`judging <functions-jp_>`_). If you're coming
+from a discipline like the MBTI_ these names probably already sound
+familiar. In socionics these four **domains** (or **macroelements**)
+are **sensing**, **intuition**, **logic**, and **ethics** on an
+official basis. However, as with "functions" and "elements", the
+terms are somewhat interchangeable in casual discussion.
+
+The psychic domains are further divided into our eight essential
+functions across the line of `extraversion and introversion
+<functions-ei_>`_, ultimately yielding...
+
+===================== ============ ========= =============== =============
+     Full Name        Abbreviation IM Symbol     IM Name        Gulenko_
+===================== ============ ========= =============== =============
+ Extraverted Sensing       Se                 Black Sensing    F (Force)
+ Introverted Sensing       Si                 White Sensing  S (Sensation)
+Extraverted Intuition      Ne        |Ne|    Black Intuition   I (Idea)
+Introverted Intuition      Ni        |Ni|    White Intuition   T (Time)
+  Extraverted Logic        Te        |Te|      Black Logic    P (Profit)
+  Introverted Logic        Ti                  White Logic     L (Logic)
+ Extraverted Ethics        Fe                  Black Ethics   E (Emotion)
+ Introverted Ethics        Fi                  White Ethics  R (Relation)
+===================== ============ ========= =============== =============
+
+Psychic Function Dichotomies
+----------------------------
+
+.. _functions-ei:
+
+Extraversion and Introversion
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _functions-jp:
+
+Judging and Perceiving
+^^^^^^^^^^^^^^^^^^^^^^
+
+Static and Dynamic
+^^^^^^^^^^^^^^^^^^
+
+
+The Models
+==========
+
+Model C |---| Compromise
+------------------------
+
+.. _model A:
+
+Model A |---| Information
+-------------------------
+
+Model G |---| Energy
+--------------------
+
+
+Glossary
+========
+
+.. _Augusta:
+
+Aushra Augusta
+   A Lithuanian psychologist, sociologist, and founder of Socionics.
+   `wikipedia <https://en.wikipedia.org/wiki/
+   Au%C5%A1ra_Augustinavi%C4%8Di%C5%ABt%C4%97>`__
+
+.. _Jung:
+
+Carl Jung
+   A Swiss psychiatrist and psychoanalyst; a student of Sigmund
+   Frued before their eventual falling out. Incredibly influential
+   in the world of modern psychology and progenitor of Jungian
+   typologies like Socionics_ and the MBTI_.
+   `wikipedia <https://en.wikipedia.org/wiki/Carl_Jung>`__
+
+information elements
+   see functions_
+
+.. _MBTI:
+
+MBTI
+   .. TODO
+
+.. _typology:
+
+typology
+   .. TODO
+
+.. _Gulenko:
+
+Viktor Gulenko
+   .. TODO
+
+
+.. Substitutions
+
+.. |---| unicode:: U+02014 .. em dash
+
+.. |Ne| image:: /img/ne.gif
+.. |Ni| image:: /img/ni.gif
+.. |Te| image:: /img/te.gif
