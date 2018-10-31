@@ -150,10 +150,18 @@ Viktor Gulenko
 .. |---| unicode:: U+02014 .. em dash
 
 .. |Se| image:: /img/se.gif
+   :alt: Se Symbol
 .. |Si| image:: /img/si.gif
+   :alt: Si Symbol
 .. |Ne| image:: /img/ne.gif
+   :alt: Ne Symbol
 .. |Ni| image:: /img/ni.gif
+   :alt: Ni Symbol
 .. |Te| image:: /img/te.gif
+   :alt: Te Symbol
 .. |Ti| image:: /img/ti.gif
+   :alt: Ti Symbol
 .. |Fe| image:: /img/fe.gif
+   :alt: Fe Symbol
 .. |Fi| image:: /img/fi.gif
+   :alt: Fi Symbol
