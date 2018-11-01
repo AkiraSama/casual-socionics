@@ -103,6 +103,12 @@ Model C |---| Compromise
 Model A |---| Information
 -------------------------
 
+Dimensionality
+^^^^^^^^^^^^^^
+
+Reinin Dichotomies
+^^^^^^^^^^^^^^^^^^
+
 Model G |---| Energy
 --------------------
 
