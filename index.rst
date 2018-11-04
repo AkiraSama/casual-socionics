@@ -54,7 +54,7 @@ are sensation and intuition (`perceiving <functions-jp_>`_), and
 thinking and feeling (`judging <functions-jp_>`_). If you're coming
 from a discipline like the MBTI_ these names probably already sound
 familiar. In socionics these four **domains** (or **macroelements**)
-are **sensing**, **intuition**, **logic**, and **ethics** on an
+are sensing_, intuition_, logic_, and ethics_ on an
 official basis. However, as with "functions" and "elements", the
 terms are somewhat interchangeable in casual discussion.
 
@@ -63,7 +63,7 @@ functions across the line of `extraversion and introversion
 <functions-ei_>`_, ultimately yielding...
 
 ===================== ============ ========= =============== =============
-     Full Name        Abbreviation IM Symbol     IM Name        Gulenko_
+     Full Name        Abbreviation IM Symbol     IM Name        Gulenko
 ===================== ============ ========= =============== =============
  Extraverted Sensing       Se        |Se|     Black Sensing    F (Force)
  Introverted Sensing       Si        |Si|     White Sensing  S (Sensation)
@@ -75,21 +75,53 @@ Introverted Intuition      Ni        |Ni|    White Intuition   T (Time)
  Introverted Ethics        Fi        |Fi|      White Ethics  R (Relation)
 ===================== ============ ========= =============== =============
 
+You may be wondering where the funky shapes and random words came
+from. The information element symbols are helpful to know for certain
+older representations, but are difficult to use in conversation (for
+obvious reasons), so a casual socionist won't have much use for them.
+The single letter notation was proposed by `Doctor Viktor Gulenko
+<Gulenko_>`_, and while they haven't really caught on with the
+community, remembering them can be useful in quickly recalling the
+traits of each individual function. We'll talk a lot more about Dr. G
+later on.
+
 Psychic Function Dichotomies
 ----------------------------
-
-.. _functions-ei:
-
-Extraversion and Introversion
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. _functions-jp:
 
 Judging and Perceiving
 ^^^^^^^^^^^^^^^^^^^^^^
 
+.. _functions-ei:
+
+Extraversion and Introversion
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Static and Dynamic
 ^^^^^^^^^^^^^^^^^^
+
+Sensing
+-------
+
+.. _se:
+
+Se |---| Force
+^^^^^^^^^^^^^^
+
+.. _si:
+
+Si |---| Sensation
+^^^^^^^^^^^^^^^^^^
+
+Intuition
+---------
+
+Logic
+-----
+
+Ethics
+------
 
 
 The Models
