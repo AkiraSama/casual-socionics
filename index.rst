@@ -23,7 +23,7 @@ her name, you are not alone.
 Socionics is influenced heavily by `Carl Jung <Jung_>`__'s theories
 of psychological types, and builds upon his proposed `"psychic
 functions" <psychic functions_>`__: processes of the mind which recieve
-input and generate output based upon their particular needs and
+input and generate output based upon their particular views and
 desires (or *agendas*). Using these functions, Socionists can build
 `models <The Models_>`__ of the psyche that describe both individual
 behavior and the behaviors of different types of people interacting
@@ -96,7 +96,9 @@ You're probably itching to get to the psychic functions themselves, so
 what's the hold up?! Before we get to the pièce de résistance we're
 going to quickly cover a few important psychic function
 **dichotomies**: lines across which we can split the psychic functions
-symmetrically\ |---|\ half on one side, half on the other.
+symmetrically\ |---|\ half on one side, half on the other. Dichotomies
+can also be referred to as **axes**, lines across which different
+things can be reflected.
 
 The first two dichotomies are particularly important in understanding
 some type notations.
