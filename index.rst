@@ -96,9 +96,7 @@ You're probably itching to get to the psychic functions themselves, so
 what's the hold up?! Before we get to the pièce de résistance we're
 going to quickly cover a few important psychic function
 **dichotomies**: lines across which we can split the psychic functions
-symmetrically\ |---|\ half on one side, half on the other. Dichotomies
-can also be referred to as **axes**, lines across which different
-things can be reflected.
+symmetrically\ |---|\ half on one side, half on the other.
 
 The first two dichotomies are particularly important in understanding
 some type notations.
