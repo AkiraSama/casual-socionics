@@ -15,7 +15,7 @@ visit our Lighthouse! https://discord.gg/eswQ86h
 
 .. sectnum::
    :suffix: .
-.. contents::
+.. contents:: **Contents**
    :backlinks: none
 
 
