@@ -14,7 +14,6 @@ welcome your comments, questions, and other feedback. Please come
 visit our Lighthouse! https://discord.gg/eswQ86h
 
 .. sectnum::
-   :suffix: .
 .. contents:: **Contents**
    :backlinks: none
 
@@ -213,6 +212,18 @@ Type Notations
 ====================
 
 
+2nd Tier Dichotomies
+====================
+
+
+3rd Tier Dichotomies
+====================
+
+
+4th Tier Dichotomies
+====================
+
+
 Information Element Dichotomies
 ===============================
 
@@ -224,8 +235,73 @@ Small Groups
 Rings
 =====
 
+
 Type Descriptions
 =================
+
+
+ENTP
+----
+
+
+INTP
+----
+
+
+ESFJ
+----
+
+
+ISFJ
+----
+
+
+ESTP
+----
+
+
+ISTP
+----
+
+
+ENFJ
+----
+
+
+INFJ
+----
+
+
+ENTJ
+----
+
+
+INTJ
+----
+
+
+ESFP
+----
+
+
+ISFP
+----
+
+
+ENFP
+----
+
+
+INFP
+----
+
+
+ESTJ
+----
+
+
+ISTJ
+----
 
 
 Glossary
