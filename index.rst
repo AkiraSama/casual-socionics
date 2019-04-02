@@ -90,8 +90,8 @@ members they can always be defined by three distinct dichotomies.
 
 
 This principle is useful in statistical research at various levels,
-since conclusions about two dichotomies in tetrachotomy research can
-be "verified" by the third remaining dichotomy.
+since conclusions about two dichotomies in tetrachotomy research
+must be "verified" by the third remaining dichotomy.
 
 
 Jungian Foundation
@@ -174,6 +174,38 @@ Ni |---| Introverted Intuition
 ------------------------------
 
 
+Information Element Dichotomies
+===============================
+
+
+Body and Field
+--------------
+
+
+Rational and Irrational
+-----------------------
+
+
+Abstract and Involved
+---------------------
+
+
+External and Internal
+---------------------
+
+
+Static and Dynamic
+------------------
+
+
+Alpha and Gamma
+---------------
+
+
+Beta and Delta
+--------------
+
+
 Models
 ======
 
@@ -202,8 +234,52 @@ Id
 ""
 
 
+Function Dichotomies
+^^^^^^^^^^^^^^^^^^^^
+
+
+Model G
+-------
+
+
+Function Blocks
+^^^^^^^^^^^^^^^
+
+
+Model C
+-------
+
+
 Type Notations
 ==============
+
+
+Model Agnostic
+--------------
+
+
+MBTI Four-Letter
+----------------
+
+
+Socionics Four-Letter
+---------------------
+
+
+Socionics Three-Letter
+----------------------
+
+
+Socionics Two-Letter
+--------------------
+
+
+Socionics One-Letter
+--------------------
+
+
+Reinin Dichotomy
+----------------
 
 
 .. _type dichotomies:
@@ -212,20 +288,60 @@ Type Notations
 ====================
 
 
+Extraverted and Introverted
+---------------------------
+
+
+Thinking and Feeling
+--------------------
+
+
+Sensing and Intuitive
+---------------------
+
+
+Rational and Irrational
+-----------------------
+
+
 2nd Tier Dichotomies
 ====================
+
+
+Static and Dynamic
+------------------
+
+
+Democratic and Aristocratic
+---------------------------
+
+
+Tactical and Strategic
+----------------------
+
+
+Carefree and Farsighted
+-----------------------
+
+
+Constructivist and Emotivist
+----------------------------
+
+
+Yielding and Obstinate
+----------------------
 
 
 3rd Tier Dichotomies
 ====================
 
 
+Process and Result
+------------------
+
+
 4th Tier Dichotomies
 ====================
-
-
-Information Element Dichotomies
-===============================
 
 
 Small Groups
