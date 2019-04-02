@@ -81,18 +81,18 @@ element dichotomies`_, and any 4 members of a set of `small groups`_
 have 3 associated dichotomies that define them.
 
 
-.. _small groups:
+What are Tetrachotomies?
+========================
 
-What are Small Groups?
-======================
+Where dichotomies are divisions of a whole into two parts,
+**tetrachotomies** are a division into four parts. As mentioned in
+the tail end of the last section, because tetrachotomies have four
+members they can always be defined by three distinct dichotomies.
 
-Mentioned in the tail end of the last section, **small groups** are
-sets of four distinct categories formed by dividing two dichotomous
-halves in half once again. Any two dichotomies can form a set of
-small groups, and a third "implied" dichotomy will complement them.
 
-Small groups are another simple mathematical division that appear at
-various levels of socionics analyis.
+This principle is useful in statistical research at various levels,
+since conclusions about two dichotomies in tetrachotomy research can
+be "verified" by the third remaining dichotomy.
 
 
 Jungian Foundation
@@ -217,6 +217,13 @@ Information Element Dichotomies
 ===============================
 
 
+Small Groups
+============
+
+
+Rings
+=====
+
 Type Descriptions
 =================
 
@@ -235,7 +242,7 @@ Aushra Augusta
 
 Carl Jung
    A Swiss psychiatrist and analytical psychologist; a student of
-   Sigmund Frued before their eventual falling out. Incredibly
+   Sigmund Freud before their eventual falling out. Incredibly
    influential in the world of modern psychology and progenitor of
    Jungian typologies like Socionics and the MBTI_.
    `wikipedia <https://en.wikipedia.org/wiki/Carl_Jung>`__
