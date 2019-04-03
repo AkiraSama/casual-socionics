@@ -97,9 +97,23 @@ must be "verified" by the third remaining dichotomy.
 Jungian Foundation
 ==================
 
+`Carl Jung <Jung_>`__, in his 1921 book :title:`Psychological Types`,
+outlined the fundamentals of his prototypical psychological typology.
+Based upon both his extensive experience with the human psyche in
+his clinical practice and his rich knowledge of historic literature,
+the work itself is something to behold long after its publication.
 
-Extraverted and Introverted
----------------------------
+We encourage that modern practicioners of Jungian typology acquaint
+themselves with at least one or two of its chapters in order to
+better understand the roots of the systems in which they immerse
+themselves. In particular, becoming familiar with Jung's original
+conception of extraversion and introversion is essential in wielding
+a Jungian typology without bias from modern definitions promulgated
+by pop culture and taken up by other studies of psychology.
+
+
+Extraversion and Introversion
+-----------------------------
 
 
 Information Domains
@@ -206,6 +220,10 @@ Beta and Delta
 --------------
 
 
+Information Element Signs
+=========================
+
+
 Models
 ======
 
@@ -284,8 +302,8 @@ Reinin Dichotomy
 
 .. _type dichotomies:
 
-1st Tier Dichotomies
-====================
+Tier 1 Dichotomies
+==================
 
 
 Extraverted and Introverted
@@ -304,8 +322,8 @@ Rational and Irrational
 -----------------------
 
 
-2nd Tier Dichotomies
-====================
+Tier 2 Dichotomies
+==================
 
 
 Static and Dynamic
@@ -332,24 +350,60 @@ Yielding and Obstinate
 ----------------------
 
 
-3rd Tier Dichotomies
-====================
+Tier 3 Dichotomies
+==================
 
 
 Process and Result
 ------------------
 
 
-4th Tier Dichotomies
-====================
+Subjectivist and Objectivist
+----------------------------
+
+
+Judicious and Decisive
+----------------------
+
+
+Positivist and Negativist
+-------------------------
+
+
+Tier 4 Dichotomies
+==================
+
+
+Asking and Declaring
+--------------------
 
 
 Small Groups
 ============
 
 
+Quadra
+------
+
+
+Temperament
+-----------
+
+
+Club
+----
+
+
 Rings
 =====
+
+
+Rings of Supervision
+--------------------
+
+
+Rings of Benefit
+----------------
 
 
 Type Descriptions
