@@ -7,11 +7,16 @@ Lighthouse 9 Brand Typology
 ***************************
 
 
-This document is meant to provide a summary description of the
-fundamental principles of the system of typology we use in our
-server. This document is subject to change and revision, and we
-welcome your comments, questions, and other feedback. Please come
-visit our Lighthouse! https://discord.gg/eswQ86h
+This document is meant to provide a clean and clear description of
+the system of typology we use in our Discord community.
+
+Socionics is constructed from simple principles.
+
+Armed with those principles, and a little bit of history, you'll be
+ready to join us in learning more about human cognition and how the
+socion fits together. Please bring all your questions, comments,
+criticisms, and insights, to our server. We'd love to discuss them
+with you! https://discord.gg/eswQ86h
 
 .. sectnum::
 .. contents:: **Contents**
@@ -21,33 +26,37 @@ visit our Lighthouse! https://discord.gg/eswQ86h
 What is Socionics?
 ==================
 
-Socionics is a psychological typology founded by `Aušra
-Augustinavičiūtė <Augusta_>`__ (commonly Aushra Augusta,
-or just A.A.) in the '70s. If you have no idea how to pronounce
-her name, you are not alone.
+Socionics is a personality typology founded by `Aušra
+Augustinavičiūtė <Augusta_>`__ (commonly known as Aushra Augusta) in
+1968, and developed over the course of the next few decades.
 
 Her work is based primarily upon the foundation laid by `Carl Jung
-<Jung_>`__'s theory of psychological types, which he first designed
-as "a critical apparatus serving to sort out and organize the welter
-of empirical material." In other words, a means of explaining
-fundamental differences in worldview, theory, and philosophy between
-different "types" of people.
+<Jung_>`__'s theory of psychological types, which he first described
+as "a critical appartus serving to sort out the welter of empirical
+material". In other words, a means of explaining fundamental
+differences in worldview, theory, and philosophy between different
+"types" of people.
+
+You may already be familiar with the `Myers-Briggs Type Indicator
+<MBTI_>`__, or MBTI, which also used Jung's work as a seed for its
+development. Socionics and the MBTI were actually designed
+independently and simultaneously in completely separate parts of the
+world! We believe that the fact that they share many concepts between
+them is a testament to each system's earnest attempts at an accurate
+picture of human nature, or natures, as the case may be.
 
 Augusta's typology also incorporates `Antoni Kępiński
-<Kępiński_>`__'s theory of information metabolism, which provides a
-systematic precision to Jung's initial observations that helps to
-give socionics its unique flavor in the world of typology.
+<Kępiński_>`__'s theory of information metabolism into its base
+principles, which provides a systematic precision to Jung's initial
+observations that helps to give socionics its unique flavor in the
+world of typology. As the domain of psychology is expanded in the
+modern era, socionists find more and more of these cognitive theories
+that can help to confirm and refine our observations.
 
-Socionics gets its name from the idea that every personality type
-has an important role in society, or the "socion". Various schools
-of socionics and philosophy in the world today explore these roles
-and how groups and individuals of different type relate to each other.
-
-Some people criticize socionics as an "overly complex" approach to
-typology, but it is in reality built upon extremely simple
-principles. These simple principles yield a large *volume* of
-information, which may seem intimidating, but please do not dismiss
-it out of hand.
+Socionics gets its name from the idea that every personality type has
+an important role in society, or the "socion". Various schools of
+socionics and philosophy in the world today explore these roles and
+how groups and individuals of different type relate to each other.
 
 
 .. _dichotomy:
@@ -55,43 +64,49 @@ it out of hand.
 What are Dichotomies?
 =====================
 
-A **dichotomy** (also **duality**) is a division into two contrasting
-halves. Light and dark, hot and cold, and dry and wet are some
-examples of physical dichotomies. In socionics, at various levels of
-the psyche, we divide things into two well-researched halves, just as
-Jung first did when he identified the traits of extraversion and
-introversion.
+A **dichotomy** (also **duality**) is a division between two
+contrasting halves. Light and dark, hot and cold, and dry and wet are
+some examples of physical dichotomies. In socionics, at various
+levels of the psyche, we divide things into two contrasting halves,
+just as Jung first did when he identified the traits of extraversion
+and introversion.
 
 Simple principle, right?
 
-While dichotomies are just two extremes of a dimension,
-it is a frequent observation that individuals will still lie
-conceretely in one discrete half of the essential dichotomies, and
-not the other, based on their behavior over a long period of time.
-There is no one individual perfectly in the middle of any dimension
-(although if you believe you are we would certainly love to see it
-in action).
+While many of the dichotomies we use are tried and true, not all of
+them are as well described as they could be. Some may be too general,
+others too specific, and some may be completely off base! It is one
+of our jobs as socionics researchers to find more accurate
+descriptions for our dichotomies, so that our typology does the best
+service to the world that it possibly can. If a dichotomy doesn't fit
+someone properly, consider that something about it may be incorrect,
+and that it may be in need of revision.
 
-The last thing to be aware of about dichotomies is that,
-mathematically, there's always one less dichotomy than there are
-members of a group for that group. The 16 types have 15 `type
-dichotomies`_, the 8 `information elements`_ have 7 `information
-element dichotomies`_, and any 4 members of a set of `small groups`_
-have 3 associated dichotomies that define them.
+In a mathematically sound group, there will always be one less
+dichotomy than there are members of that group. The `16 types <type
+descriptions_>`__ have 15 `type dichotomies <tier 1 dichotomies_>`__,
+the 8 `information elements`_ have 7 `information element
+dichotomies`_, and any set of 4 `small groups`_ has 3 associated
+dichotomies that define it.
 
+
+.. _tetrachotomy:
 
 What are Tetrachotomies?
 ========================
 
-Where dichotomies are divisions of a whole into two parts,
+While dichotomies are divisions of a whole into two parts,
 **tetrachotomies** are a division into four parts. As mentioned in
-the tail end of the last section, because tetrachotomies have four
-members they can always be defined by three distinct dichotomies.
+the tail end of the last section, tetrachotomies can always be
+defined by three distinct dichotomies, since every tetrachotomy is
+composed of four members.
 
-
-This principle is useful in statistical research at various levels,
-since conclusions about two dichotomies in tetrachotomy research
-must be "verified" by the third remaining dichotomy.
+Tetrachotomies are extremely useful in socionics research because
+conclusions about any two of their three dichotomies MUST be checked
+against the third dichotomy for accuracy. Irrational extraverts MUST
+also be static, and rational extraverts MUST be dynamic. You don't
+have to worry about remembering those details all at once, we'll
+review many essential tetrachotomies later on.
 
 
 Jungian Foundation
@@ -299,8 +314,6 @@ Socionics One-Letter
 Reinin Dichotomy
 ----------------
 
-
-.. _type dichotomies:
 
 Tier 1 Dichotomies
 ==================
