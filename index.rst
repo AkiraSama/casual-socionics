@@ -18,8 +18,10 @@ socion fits together. Please bring all your questions, comments,
 criticisms, and insights, to our server. We'd love to discuss them
 with you! https://discord.gg/eswQ86h
 
+
 .. sectnum::
 .. contents:: **Contents**
+   :depth: 1
    :backlinks: none
 
 
